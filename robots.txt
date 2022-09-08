@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://psyconnect.github.io/sitemap.xml
